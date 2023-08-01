@@ -1,5 +1,5 @@
 # Governance-Risk-and-Compliance
-Governance, Risk, and Compliance (GRC)
+**Governance, Risk, and Compliance (GRC)**
 
 Governance, Risk, and Compliance (GRC) in cybersecurity are critical components of an organization's cybersecurity strategy and play a pivotal role in managing and mitigating cyber threats effectively. Here's an overview of each aspect:
 1.	Governance: Governance refers to the framework, policies, and processes that define how an organization's cybersecurity strategy is planned, executed, and monitored. It involves the establishment of clear roles, responsibilities, and decision-making processes to ensure that cybersecurity is aligned with the organization's overall business objectives. Key elements of cybersecurity governance include:
@@ -16,7 +16,7 @@ Governance, Risk, and Compliance (GRC) in cybersecurity are critical components 
 •	Third-Party Compliance: Ensuring that vendors, partners, and other third parties handling sensitive data or providing services to the organization also meet cybersecurity standards and requirements.
 In summary, a strong Governance, Risk, and Compliance (GRC) framework is essential for effective cybersecurity management. It ensures that cybersecurity is well-integrated into an organization's overall strategy, risk is managed proactively, and compliance with relevant laws and standards is maintained. Regular monitoring, updates, and improvement of the GRC framework are vital to adapt to evolving cybersecurity threats.
 
-Regulatory Agencies
+**Regulatory Agencies**
 
 Regulatory agencies play a crucial role in overseeing and enforcing laws and regulations related to various industries and sectors. In the context of cybersecurity, several regulatory agencies are involved in setting cybersecurity standards, guidelines, and compliance requirements. Below are some key regulatory agencies and what you need to know about each of them:
 1.	National Institute of Standards and Technology (NIST):
@@ -47,7 +47,7 @@ Regulatory agencies play a crucial role in overseeing and enforcing laws and reg
 •	For example, in the U.S., California has the California Consumer Privacy Act (CCPA), and other states may have their own data protection laws.
 It's essential for organizations to be aware of the specific regulations that apply to their industry and geographical location. Compliance with these regulations is crucial to avoid legal repercussions and maintain the trust of customers and stakeholders. Implementing cybersecurity measures in line with these regulatory requirements can help organizations strengthen their overall cybersecurity posture.
 
-Compliance Implementation
+**Compliance Implementation**
 
 Ensuring compliance in a corporate setting requires a proactive and comprehensive approach that involves various strategies and practices. Here are some key steps to achieve compliance:
 1.	Understanding Applicable Regulations: Identify and understand the specific laws, regulations, and industry standards that apply to your organization based on its industry, location, and the types of data it handles. This might include data protection laws, industry-specific regulations, and cybersecurity frameworks.
